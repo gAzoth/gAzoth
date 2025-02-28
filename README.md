@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JohnGaff6
-- 👀 I’m interested in Devops and Analytics
-- 🌱 I’m currently learning as much as I can
+- 👋 Hi, I’m @gAzoth
+- 👀 I’m interested in Go and backend development
 - 💞️ I’m looking to collaborate on anything interesting
 
 <!---
